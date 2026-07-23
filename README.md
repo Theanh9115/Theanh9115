@@ -72,4 +72,4 @@ Implemented an AI for the board game *Stay Alive* using Minimax search, breadth-
 ---
 
 ## 📫 Contact
-- Email: athe9115@gmail.com
+- Email: athe9115@gmail.com/anhngy9115@gmail.com
